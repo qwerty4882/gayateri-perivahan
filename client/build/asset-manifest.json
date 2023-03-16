@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.206097fc.css",
+    "main.js": "/static/js/main.68fc3fdf.js",
+    "static/media/image.png": "/static/media/image.9ffd92b40f79bb57909f.png",
+    "static/media/screen-1-removebg-preview.png": "/static/media/screen-1-removebg-preview.da79960b017f4bf0b2b9.png",
+    "static/media/oie_0yLmAVS2acL2.jpg": "/static/media/oie_0yLmAVS2acL2.74d54637ab7f1245b470.jpg",
+    "static/media/stock-photo-a-powerful-green-diesel-locomotive-m-pulls-a-freight-train-along-the-tracks-of-a-railway-station-1866075196-Mg7_atIme-transformed_preview_rev_1.png": "/static/media/stock-photo-a-powerful-green-diesel-locomotive-m-pulls-a-freight-train-along-the-tracks-of-a-railway-station-1866075196-Mg7_atIme-transformed_preview_rev_1.4fa46c42d74826c8d216.png",
+    "static/media/logo.png": "/static/media/logo.59aef6a5eea3d4505c4c.png",
+    "static/media/image (3).jpg": "/static/media/image (3).eb0db20dd776a7b6d98a.jpg",
+    "static/media/9.png": "/static/media/9.639842e72343b56a3f4c.png",
+    "static/media/10.png": "/static/media/10.1a28674404a9173cbbdc.png",
+    "static/media/2.png": "/static/media/2.ef9fb53747de9f31ce70.png",
+    "static/media/4.png": "/static/media/4.030bddef308c59a14abf.png",
+    "static/media/1.png": "/static/media/1.00deb90772980336a88e.png",
+    "static/media/1439-removebg-preview (1).png": "/static/media/1439-removebg-preview (1).58c58857e0f59e90d25f.png",
+    "static/media/train-rapid-mass-transportation-high-speed-vector-logo-design-template-train-rapid-mass-transportation-high-speed-vector-logo-168608577-removebg-preview.png": "/static/media/train-rapid-mass-transportation-high-speed-vector-logo-design-template-train-rapid-mass-transportation-high-speed-vector-logo-168608577-removebg-preview.6f51ab825210cc83a870.png",
+    "static/media/3.png": "/static/media/3.2ea4fad979fd37906f92.png",
+    "static/media/6.png": "/static/media/6.aa5abbe04662485c8935.png",
+    "static/media/driver.jpg": "/static/media/driver.3bfea42b21d95aa6fe74.jpg",
+    "static/media/8.png": "/static/media/8.5c55d844ea3764459cb1.png",
+    "static/media/transport1.jpg": "/static/media/transport1.dba4cfc2516e226590b9.jpg",
+    "static/media/7.png": "/static/media/7.8ad7516f05a952e225cf.png",
+    "static/media/truck.webp": "/static/media/truck.f19f88ec89ca72cc7d64.webp",
+    "static/media/11.png": "/static/media/11.b838e07ef5640b173239.png",
+    "static/media/istockphoto-1208592742-612x612.jpg": "/static/media/istockphoto-1208592742-612x612.37e4cbe1a4761f242e0e.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.206097fc.css.map": "/static/css/main.206097fc.css.map",
+    "main.68fc3fdf.js.map": "/static/js/main.68fc3fdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206097fc.css",
+    "static/js/main.68fc3fdf.js"
+  ]
+}
