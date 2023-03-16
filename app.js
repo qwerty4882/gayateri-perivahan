@@ -4,7 +4,7 @@ var cors = require('cors')
 const app = express()
 const path = require('path')
 
-const port = process.env.port || 80
+const port = process.env.port || 3000
 
 app.use(express.json())
 app.use(cors())
