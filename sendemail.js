@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({
 const sendEmail = (data) => {
   const { emailType } = data
   const message = {
-    to: 'ajjha5244@gmail.com',
+    to: 'gparivahan07@gmail.com',
     subject: `new ${emailType}  alert`,
     text: `person info : 
      ${JSON.stringify(data, null, '\t')}`,
